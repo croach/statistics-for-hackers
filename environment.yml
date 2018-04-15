@@ -3,7 +3,6 @@ channels:
   - defaults
 dependencies:
   - alabaster=0.7.10
-  - appnope=0.1.0
   - asn1crypto=0.24.0
   - babel=2.5.3
   - backcall=0.1.0
