@@ -1,6 +1,8 @@
 Title: Statistics for Hackers
 Slug: statistics-for-hackers
 Date: 2017-01-18
+Github: https://github.com/croach/statistics-for-hackers
+Binder: https://mybinder.org/v2/gh/croach/statistics-for-hackers.git/master?filepath=statistics-for-hackers.ipynb
 Category: statistics
 Author: Christopher Roach
 Status: published
